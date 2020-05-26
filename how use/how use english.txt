@@ -1,0 +1,10 @@
+First drag your file to the folder.
+
+Take your .bat file and drag it to the .bat file "Batch Obfuscator By Oafu" sa will create a file with the name of your .bat le and it will have "Obf" at the end
+
+
+By Oafu
+
+
+More info: https://discord.gg/qBHdXdt
+

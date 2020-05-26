@@ -1,0 +1,11 @@
+D'abord glisser votre fichier dans le dossier.
+
+
+
+Prenez votre fichier .bat et glisser le sur le fichier .bat "Batch Obfuscator By Oafu" sa va créer un fichier avec le nom de votre chier .bat et il aura "Obf" a la fin
+
+
+By Oafu
+
+
+Plus D'info : https://discord.gg/qBHdXdt
